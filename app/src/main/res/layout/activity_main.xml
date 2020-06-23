@@ -15,7 +15,7 @@ tools:context=".MainActivity">
 
     <EditText
         android:id="@+id/edit_text"
-        android:layout_width="250dp"
+        android:layout_width="251dp"
         android:layout_height="wrap_content"
         android:hint="入力して下さい" />
     <Button
